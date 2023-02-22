@@ -1,0 +1,11 @@
+
+BoatProduct.csv: This file contains the product information of boat company such as ProductName, ProductPrice, Discount, NumberofReviews, Rate, and Review and Summary.
+
+Columns:
+ProductName: Name of the product.
+ProductPrice: Price of the product.
+Discount: Discount of the product.
+NumberofReviews: number of review by customer
+Rate: Customer rating for the product .
+Review: Customer's Review of the product.
+Summary: This file contains the detailed descriptions of each product such as product specifications, features, and product dimensions.
